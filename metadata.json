@@ -1,0 +1,5 @@
+{
+  "name": "PhysicsLab.ai - Pendulum Sandbox",
+  "description": "A high-fidelity physics sandbox for conducting experiments. Currently featuring a Single Pendulum experiment to measure gravitational acceleration, powered by Gemini for data analysis.",
+  "requestFramePermissions": []
+}
